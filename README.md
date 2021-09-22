@@ -1,6 +1,6 @@
 - 👋 Hi, I’m nur
 - 👀 I’m interested in web development (javeScript , react and nodejs)
-- 🌱 I’m currently learning "android apps"
+- 🌱 I’m currently learning "blockchain"
 - 💞️ I’m looking to collaborate on building website 
 - 📫 How to reach me medo1208@yahoo.com
 
